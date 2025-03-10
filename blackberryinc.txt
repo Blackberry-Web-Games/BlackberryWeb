@@ -1,0 +1,42 @@
+# Trademark Verification Timestamp (TVT) File
+# Created for the common law trademark claim of "BlackBerryInc" and related brands.
+
+Trademark Name: BlackBerryInc  
+Trademark Owner: [Your Name or Business Name]  
+Owner Contact: [Your Email or Address]  
+
+First Use Date: [MM/DD/YYYY]  
+Public Use Proof: [Website, Social Media, or Business Listing URLs]  
+
+## Trademark Descriptions:
+
+1. **BlackBerryInc**  
+   BlackBerryInc is a technology brand focused on software development, web solutions, and cybersecurity innovations.  
+   It provides advanced web technologies, platform services, and programming tools for developers and businesses.  
+
+2. **BlackBerryWeb**  
+   BlackBerryWeb is an online ecosystem designed for next-generation web development.  
+   It integrates decentralized hosting, security-focused networking, and advanced scripting capabilities for modern applications.  
+
+3. **WebOG**  
+   WebOG is a cutting-edge web browser that redefines internet navigation by allowing seamless access to alternative web spaces.  
+   Unlike traditional browsers, WebOG does not rely on conventional TLDs or HTTPS, providing an innovative way to access online content.  
+
+4. **OGWeb**  
+   OGWeb is a standalone executable web browser designed for gaming, application integration, and alternative web experiences.  
+   It features modded search functionalities, site masking, and a Steam-compatible UI with levels, achievements, and prestige systems.  
+
+5. **Web OG**  
+   Web OG represents an alternative internet framework designed for secure, decentralized web interactions.  
+   It serves as an experimental environment for new web protocols and immersive online experiences beyond traditional domain structures.  
+
+Declaration:  
+I, Shane E, Baldwin, affirm that the above trademarks have been in use in commerce since .2025-03-09T10:00:00Z  
+This file serves as evidence of my common law trademark claims.  
+
+# File Timestamp: 2025-03-09T10:00:00Z 
+# Hash Algorithm: SHA-256  
+# Hash Value: 9b861574f36cddee4a117022a02d423be63697a82af7eb24dcb51436b3a033ca
+  
+
+# End of File
